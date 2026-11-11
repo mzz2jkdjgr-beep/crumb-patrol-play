@@ -1,0 +1,17 @@
+{
+  "name": "Crumb Patrol (test)",
+  "short_name": "Crumb Patrol",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#86c83c",
+  "theme_color": "#23262b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
